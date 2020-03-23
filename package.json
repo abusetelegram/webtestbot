@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "got": "^10.6.0",
+    "telegraf": "^3.36.0",
+    "webpagetest": "^0.3.9"
+  }
+}
